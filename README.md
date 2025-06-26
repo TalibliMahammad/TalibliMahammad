@@ -42,7 +42,7 @@
 | Project            | Tech Stack            | Live Demo                             |
 |--------------------|-----------------------|-------------------------------------|
 | E-commerce Website  | HTML, Tailwind,React,Redux         | [View](e-commerce-5srj.vercel.app/) |
-| Calcluator          | React, REST API                    | [View](cal-culator-app.vercel.app)|
+| Calcluator          | HTml Css JavaScript                | [View](cal-culator-app.vercel.app)|
 | Todo List App       | Html TypeScript, LocalStorage      | [View](Not ready yet )     |
 
 ---

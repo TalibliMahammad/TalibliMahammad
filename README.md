@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://mahammad.vercel.app" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:MahammadTalibli@outlook.com">
@@ -41,9 +41,9 @@
 
 | Project            | Tech Stack            | Live Demo                             |
 |--------------------|-----------------------|-------------------------------------|
-| Portfolio Website  | HTML, CSS, JS          | [View](https://mahammad.vercel.app) |
-| Film API App       | React, REST API        | [Try it](https://filmapi.vercel.app)|
-| Todo List App      | React, LocalStorage    | [Test](https://todo.vercel.app)     |
+| E-commerce Website  | HTML, Tailwind,React,Redux         | [View](e-commerce-5srj.vercel.app/) |
+| Calcluator          | React, REST API                    | [View](cal-culator-app.vercel.app)|
+| Todo List App       | Html TypeScript, LocalStorage      | [View](Not ready yet )     |
 
 ---
 

@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mahammad Talibli</h1>
-<h3 align="center">A passionate frontend developer with a strong interest in web technologies</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">🌟 I'm Mahammad Talibli, a passionate Front-End Developer with hands-on experience in building responsive web applications using React.js, JavaScript, and Tailwind CSS. I enjoy solving real-world problems through clean code and intuitive UI.
+
+🚀 My stack includes: React, Redux, TypeScript, JavaScript (ES6+), Tailwind, Git, RESTful APIs.
+
+📚 Certified by Meta and IBM via Coursera in JavaScript and Advanced React.
+
+💡 Actively working on personal projects and always open to learning new technologies.
+</h3>
 
 <p align="center">
   <a href="https://mahammad.vercel.app" target="_blank">

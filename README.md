@@ -44,7 +44,7 @@
 | E-commerce Website  | HTML, Tailwind,React,Redux         | [View](e-commerce-5srj.vercel.app/) |
 | Calcluator          | HTml Css JavaScript                | [View](cal-culator-app.vercel.app)|
 | Todo List App       | Html React, Redux tailwind Css     | [View](https://todo-list-crud-eosin.vercel.app/ )   |
-| Travel App          | Html tailwind Css  animation       | [View](https://todo-list-crud-eosin.vercel.app/ )   |
+| Travel Web page     | Html tailwind Css  animation       | [View](travel-web-page-six.vercel.app/ )   |
 
 ---
 

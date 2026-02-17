@@ -1,84 +1,65 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">🌟 I'm Mahammad Talibli, a passionate Front-End Developer with hands-on experience in building responsive web applications using React.js, JavaScript, and Tailwind CSS. I enjoy solving real-world problems through clean code and intuitive UI.
+<h1 align="center">Hi 👋, I'm Mahammad Talibli</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
+</p>
 
-🚀 My stack includes: React, Redux, TypeScript, JavaScript (ES6+), Tailwind, Git, RESTful APIs.
-
-📚 Certified by Meta and IBM via Coursera in JavaScript and Advanced React.
-
-💡 Actively working on personal projects and always open to learning new technologies.
-</h3>
+<h3 align="center">🌟 Passionate Front-End Developer with a focus on building scalable, user-centric web applications.</h3>
 
 <p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/mahammad-talibli-21881a325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:MahammadTalibli@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mahammad-talibli-21881a325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://dataflow-adminpanel.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Latest_Project-Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Latest Project" />
   </a>
 </p>
 
 ---
 
-## 🧠 Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
----
-
-## 🚀 Projects
-
-| Project            | Tech Stack            | Live Demo                             |
-|--------------------|-----------------------|-------------------------------------|
-  |  Data-Flow Ai Admin Dashboard     |  Next.js typescript taiwind zustant firebase      | [View](dataflow-adminpanel.netlify.app/ )   |
-| E-commerce Website  | HTML, Tailwind,React,Redux         | [View](https://e-commerce-5srj.vercel.app/) |
-| Atmosphere      | React,typescript date-fns radix ui lucide icons           | [View](atmosphere-three.vercel.app/)|
-| Todo List App       | Html React, Redux tailwind Css     | [View](https://todo-list-crud-eosin.vercel.app/ )   |
-| Travel Web page     | Html tailwind Css  animation       | [View](https://travel-web-page-six.vercel.app/ )   |
-| Nexus Admin Panel    | React.js   Tailwind CSS  Lucide Icons Vite  | [View](admin-dash-board-asyn.vercel.app/)   |
-
-
----
-
-## 📚 Currently Learning
-
-<p align="left">
-  I’m currently focused on learning React and modern JavaScript (ES6+), improving responsive web design skills with Tailwind CSS and Bootstrap.
-</p>
-
----
-
-## 🎯 My Goal
-
-To become a skilled frontend developer who can build efficient, scalable, and user-friendly web applications, contribute to open-source projects, and collaborate with international teams.
-
----
-
-## 📬 Contact Me
-
-- Email: MahammadTalibli@outlook.com  
-- LinkedIn: [linkedin.com/in/mahammad-talibli-21881a325](https://www.linkedin.com/in/mahammad-talibli-21881a325/)
-
----
-
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalibliMahammad&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalibliMahammad&layout=compact&theme=radical" width="48%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,sass,html,css,git,firebase,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Project: Data-Flow AI Admin Dashboard
+**A full-featured Admin Panel built for high performance and scalability.**
+- 🛠️ **Tech:** Next.js, TypeScript, Tailwind CSS, Zustand, Firebase.
+- ⚡ **Features:** State-of-the-art State Management, Real-time tracking (Upcoming AI Analytics).
+- 🔗 [Live Demo](https://dataflow-adminpanel.netlify.app/) | [Source Code](link_buraya)
+
+---
+
+## 📂 Other Projects
+
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **Atmosphere** | React, TypeScript, Radix UI | ✅ Live |
+| **E-commerce** | React, Redux Toolkit, Tailwind | ✅ Live |
+| **Nexus Admin** | React, Lucide Icons, Vite | ✅ Live |
+| **Travel Web** | HTML, Tailwind, Animations | ✅ Live |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalibliMahammad&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalibliMahammad&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalibliMahammad&theme=radical" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalibliMahammad&theme=tokyonight" width="98%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
+  <b>Let's build something amazing together!</b>
 </p>

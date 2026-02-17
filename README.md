@@ -41,10 +41,13 @@
 
 | Project            | Tech Stack            | Live Demo                             |
 |--------------------|-----------------------|-------------------------------------|
+  |  Data-Flow Ai Admin Dashboard     |  Next.js typescript taiwind zustant firebase      | [View](dataflow-adminpanel.netlify.app/ )   |
 | E-commerce Website  | HTML, Tailwind,React,Redux         | [View](https://e-commerce-5srj.vercel.app/) |
-| Calcluator          | HTml Css JavaScript                | [View](https://cal-culator-app.vercel.app/)|
+| Atmosphere      | React,typescript date-fns radix ui lucide icons           | [View](atmosphere-three.vercel.app/)|
 | Todo List App       | Html React, Redux tailwind Css     | [View](https://todo-list-crud-eosin.vercel.app/ )   |
 | Travel Web page     | Html tailwind Css  animation       | [View](https://travel-web-page-six.vercel.app/ )   |
+| Nexus Admin Panel    | React.js   Tailwind CSS  Lucide Icons Vite  | [View](admin-dash-board-asyn.vercel.app/)   |
+
 
 ---
 
